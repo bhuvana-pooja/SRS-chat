@@ -1,2 +1,0 @@
-# SDP
-SDP Projects
